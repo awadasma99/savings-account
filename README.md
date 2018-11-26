@@ -2,7 +2,7 @@
 This program will calculate the balance of a savings account at the end of a period of time. It will use a for loop to accomplish this.
 
     import java.util.Scanner;
-    public class HomeworkFour {
+    public class SavingsAccountBalance {
       public static void main(String[] arg) {
 
         //Ask the user for starting balance, monthly interest rate, and # of months since the account was created.
